@@ -72,3 +72,9 @@ body{
 .arrow:active{
     background-color: #7f8c8d
 }
+
+.subheader{
+    color: lightcoral;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
